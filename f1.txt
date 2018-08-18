@@ -1,4 +1,3 @@
 Hello World!
 Welcome to Devops practice
-You will learn Jenkins, Ansible,Docker,Python with Git
-You can learn Puppet and Chef
+You will learn Jenkins, Ansible,Docker,Python with Git, also you will learn Puppet and Chef
