@@ -1,4 +1,2 @@
 Hi world!
 This is devops class
-
-You will learn devops
